@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Addis Crime Report</string>
+
+    <string name="about">The country is experiencing the high risk of crime and high rate in accidents.  We are in the fight against this by reporting every crime in Addis that goes missing.</string>
+    <string name="button_get_started">Get Statrted</string>
+    <string name="welcome"> Welcome! </string>
+    <string name="report_a_crime">Report A Crime</string>
+    <string name="view_reported_crime">View Reported \n Crimes</string>
+    <string name="report_crime">Help us fight crimes in Addis Ababa by describing well the crime you witnessed</string>
+    <string-array name="crime_types">
+        <item>Assault</item>
+        <item>Battery</item>
+        <item>Kidnapping</item>
+        <item>Rape</item>
+        <item>Homicide</item>
+        <item>Sexual Assault</item>
+        <item>Murder</item>
+        <item>Drug Crimes</item>
+
+    </string-array>
+
+</resources>
